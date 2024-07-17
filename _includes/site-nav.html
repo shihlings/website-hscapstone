@@ -1,6 +1,6 @@
 <br>
 <nav class="site-nav">
-  <a style="font-size:20px" class="page-link" href="\" >Home</a>
+  <a style="font-size:20px" class="page-link" href="{{ "/" | relative_url }}" >Home</a>
   {% assign sorted_pages = site.pages | sort: "position" %}
   {% for _page in sorted_pages %}
   {% if _page.navbar_title or _page.navtitle or _page.navlevel == "header" or _page.navbar %}
