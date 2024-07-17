@@ -1,0 +1,14 @@
+<header class="post-header">
+  <a style="font-size:26px" class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  <h1 class="post-title baseline-fix" itemprop="name headline">{{ page.title | escape | replace: "​", "<wbr>" }}</h1>
+  {% if page.last_modified_at %}Last Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }} {% endif %}
+</header>
+
+{% if page.cover_url %}
+<div class="post-cover" aria-label="Cover">
+  <div class="post-cover-wrapper">
+    <img src="{{ page.cover_url }}" alt="" />
+  </div>
+  <div class="cover-meta">{{ page.cover_meta | markdownify }}</div>
+</div>
+{% endif %}

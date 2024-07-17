@@ -1,0 +1,25 @@
+version: 1.1.3
+title: Exploring the Potentials of a Microcontroller
+email:  shihling.shen@icloud.com
+description: > # this means to ignore newlines until "baseurl:"
+  A grade 12 high school graudation capstone project.
+url: "https://shihlings.github.io/capstone-explore-microcontroller"
+lang: en # site language (en/ja/zh-Hans/zh-Hant)
+color_scheme: github # this specifies color scheme for syntax highlighting
+github_username: shihlings
+linkedin_username: shih-ling-shen
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - template.md
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      sitemap: true
