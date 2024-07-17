@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Exploring the Potentials of a Microcontroller
 ---
 
 A grade 12 high school graudation capstone project.
