@@ -38,8 +38,11 @@ layout: default
         {{ post.title | escape }}
       </a>
       {% if post.description %}
+      <p class="post-description">{{ post.description }}</p>
+      {% endif %}
+      {% if post.brief-tag %}
       <div class="post-item-meta">
-        {{ post.description }}
+        {{ post.brief-tag }}
       </div>
       {% endif %}
     </div>
