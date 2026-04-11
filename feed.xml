@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://hscapstone.shihling.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hscapstone.shihling.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-04-11T23:46:59+01:00</updated><id>https://hscapstone.shihling.com/feed.xml</id><title type="html">Grade 12 Capstone Project</title><subtitle>Exploring the Potentials of a Microcontroller - A grade 12 high school graudation capstone project.
+</subtitle><entry><title type="html">Project Proposal</title><link href="https://hscapstone.shihling.com/about/project-proposal.html" rel="alternate" type="text/html" title="Project Proposal" /><published>2022-01-04T00:00:00+00:00</published><updated>2026-02-16T00:00:00+00:00</updated><id>https://hscapstone.shihling.com/about/project-proposal</id><content type="html" xml:base="https://hscapstone.shihling.com/about/project-proposal.html"><![CDATA[<ol>
+  <li>
+    <p>Brainstorm a topic, question or problem that you want to solve or investigate during your Capstone Journey. Remember the ideas should come from what you know, love, or have a very strong interest in.</p>
+
+    <ul>
+      <li>Microcontrollers
+        <ul>
+          <li>Physical Computing
+            <ul>
+              <li>Jumper wires</li>
+              <li>Sensors</li>
+              <li>Electromagnetics</li>
+              <li>Breadboard</li>
+              <li>Soldering</li>
+            </ul>
+          </li>
+          <li>Software Programming
+            <ul>
+              <li>MicroPython</li>
+              <li>C++/C#</li>
+              <li>Debugging</li>
+              <li>Logic</li>
+            </ul>
+          </li>
+          <li>Microcontroller Solutions
+            <ul>
+              <li>Thermometer</li>
+              <li>Oven</li>
+              <li>Cars</li>
+              <li>IoT</li>
+              <li>Infinite possibilities from Software + Hardware</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Why are you choosing to investigate this topic or participate in this area? How does this topic connect to your passions(s), purpose? Why is it of personal interest to you?</p>
+
+    <p>I chose this topic because I am passionate about computing and I want to take this opportunity to explore how it is like to work as a computer engineer or a computer software engineer. On one hand, I can confirm whether or not I want to consider computer engineering as one of my career pathways because I have never done it before. On the other hand, I can see if I really want to sit in front of a computer and code for 8 hours a day. Now, I only do coding for fun, so there’s no work pressure and I don’t need to look at the screen for that long. So, it would be good for me to know if I like it or not. Besides my exploration and passion in this field, I also want to explore the possibilities of a microcontroller. It is a chip that can perform tasks from lighting up the lights to working with the Internet of Things (IoT), which can be very useful and powerful. Overall, this project is a combination of my passion, personal interest, and also the exploration of the possibilities of a microcontroller.</p>
+  </li>
+  <li>
+    <p>What background knowledge/connections/prior learning or experiences do you have related to your topic idea?</p>
+
+    <p>Physical Computing Section:
+     None (I have read some books and seen people do it, but I have never done it myself or learned it in any way.)
+ Software Programming Section:
+     Basic C++ Programming
+     Programming Logic
+     Computer language
+     How compilers work</p>
+  </li>
+  <li>
+    <p>What subject areas and core competencies will be connected with your project? What about your extracurriculars (sports, fine arts, Cadets, music, researching, activism). Explain the connections.</p>
+
+    <p>Subject Areas:
+     Computer Science and Mathematics: Coding requires high math proficiency in order to understand the numbers and how to convert deca or binary or hex numbers. On the other hand, math is critical when debugging because the logic and calculation must be done by the human brain when the software is not working.
+     Physics: Physical Computing requires the understanding of electromagnetics covered in Physics in order to understand how to place resistors and connect different wires.
+ Core Competencies:
+     Critical and Reflective Thinking: During the debugging process of coding, critical thinking is important because you need to understand what is wrong and how to fix it. It may be corruption of code, memory leak, or syntax errors. Sometimes, you need to draw conclusions from the debugging log and determine whether the software is running properly or not.
+     Creative Thinking: Microcontrollers exist everywhere, from digital thermometers to ovens to cars. There are infinite possibilities of what a microcontroller can do, but it is up to the designer and engineer to decide what they want the microcontroller to do. So, creative thinking is important when it comes to what the goal of the microcontroller is.
+     Collaborating: Collaboration is important when debugging is stuck or the software is not working. Sometimes, it is hard to get out of your own logic and think another way. So, collaborating with anyone that has prior knowledge to programming or computer logic would help in debugging. Usually, other people are able to spot the loop holes in your code.
+     Communicating: Although communication is not going to be a main part of this project, the communication between me and my mentor will be critical to the success of this project. The communication will be helpful when the debugging is stuck, or when I simply got stuck with an error. Also, communication will be the major way of presenting this project to those in interest.
+     Personal Awareness &amp; Responsibility: As this project would be a self-paced project, there will be no individual deadlines, only a major deadline. Personal awareness &amp; responsibility would be important to keep track of the progress and work on the project while keeping up with other schoolwork.
+     Social Responsibility and Positive Personal &amp; Cultural Identity: As microcontrollers have unlimited possibilities in terms of what it can do, it is important to know about how you can contribute to society and how this chip can improve people’s lives. Personal identity would be critical to having the confidence of how this project can be beneficial to others and how it can represent one’s core values. Social responsibility would be important to understand the society’s needs and trying to meet those needs.</p>
+  </li>
+  <li>
+    <p>What Capstone format do you feel will be the best fit for your chosen topic, idea, exploration? Why does this format fit with your question?</p>
+
+    <p>I would say this is both a passion project and an individual inquiry project. On one hand, this is a passion project because it is something I am extremely passionate about, and I would want to be doing this for a career or as a hobby if not a career. On the other hand, this is an individual inquiry project because it explores the possibilities of what a microcontroller can do. Nowadays, most electronics have some kind of microcontroller embedded, but it is not programmable or requires hacking in order to program. With this project, I can explore how it is possible to create different electronics through experiments and draw conclusions. In the end, I will have a good idea of how powerful a microcontroller can be.</p>
+  </li>
+  <li>
+    <p>Is there any other relevant information about your CAPSTONE project proposal or format that you want to include?</p>
+
+    <p>Before starting everything, I will be assembling the parts and connecting them to the breadboard, which is the physical computing component. Then, I’ll start doing experiments on what each device can do and how to program them. After the experiments, I will start diving into combining the devices and create multiple projects and programs that can be used in reality. Also, I would be using a book (Get started with MicroPython on Raspberry Pi Pico) as reference for the entire project.</p>
+  </li>
+  <li>
+    <p>Who can mentor/help you with your CAPSTONE project?</p>
+
+    <p>My main mentor is Sammy Shen. She can help me when I am stuck on coding or when the hardware isn’t working. She currently works as a software engineer.</p>
+  </li>
+</ol>]]></content><author><name></name></author><category term="About" /><summary type="html"><![CDATA[See how the proposal form at the start of the project.]]></summary></entry><entry><title type="html">Bi-weekly Reflection 7</title><link href="https://hscapstone.shihling.com/reflection/bi-weekly-reflection-7.html" rel="alternate" type="text/html" title="Bi-weekly Reflection 7" /><published>2022-01-04T00:00:00+00:00</published><updated>2026-02-16T00:00:00+00:00</updated><id>https://hscapstone.shihling.com/reflection/bi-weekly-reflection-7</id><content type="html" xml:base="https://hscapstone.shihling.com/reflection/bi-weekly-reflection-7.html"><![CDATA[<p>This reflection marks the conclusion of all progress on this project. The next reflection will be my Final Reflection, and everything will be completed in this project.</p>
+
+<p>Over the past few days, I have finished programming and stress testing the security alarm project. It was a pain at first. I had trouble with the PIR sensor again. It triggered action whenever it detected a movement, even when it was not supposed to. I didn’t have an actual “solution” to this issue. Instead, I “worked around” the problem. I made extra variables to define whether or not it should execute the action, regardless of the sensor data. It was painful, and it took me a few days to work it out. I’ve recorded the videos for the traffic lights and the security alarm demonstration. I’ve also finished up the descriptions for the projects.</p>
+
+<p>The extension of winter break helped me a lot with my project. I was worried that I wouldn’t be able to finish up my third final product by the end of the winter break. In that case, I will have to bring my project to school to work on. However, the West Coast is raining most of the time, making bringing electronics to school a hard task. In addition, my board is too long to fit into my locker, which makes things even harder. With winter break extended, I used the extra time to finish up the final bits. Now, I only have the reflections and portfolio stuff to finish up.</p>
+
+<p>Over the next week, I will finalize my portfolio and write the Final Reflection. Then, I should be all set for my presentation.</p>]]></content><author><name></name></author><category term="Reflections" /><summary type="html"><![CDATA[This reflection marks the conclusion of all progress on this project. The next reflection will be my Final Reflection, and everything will be completed in this project.]]></summary></entry><entry><title type="html">Final Reflection</title><link href="https://hscapstone.shihling.com/reflection/final-reflection.html" rel="alternate" type="text/html" title="Final Reflection" /><published>2022-01-04T00:00:00+00:00</published><updated>2026-02-16T00:00:00+00:00</updated><id>https://hscapstone.shihling.com/reflection/final-reflection</id><content type="html" xml:base="https://hscapstone.shihling.com/reflection/final-reflection.html"><![CDATA[<p>This reflection marks the conclusion of this project.</p>
+
+<p>Over the past 110 days, I went from nothing to three fully functional products, along with nine device experiments. I wrote more than 15 source files and approximately 1500 lines of code. It has been a long process, and now I’m at the end of the project.</p>
+
+<p>To me, this project is a huge milestone. I had to work on something that did not come in a kit. With no tutorials and instructions along the way, I had to look at datasheets and figure out how each device communicates with each other and make things work. Seeing this project coming to an end is just astounding. This project may not directly impact the school or community-at-large, but the products that can be made out of this project can be beneficial to the whole society. The Security Alarm project is just a perfect example. With low-cost materials, people can get a small alarm for security purposes. Of course, to be used in regular households, the product still needs to be altered in different ways and suit the customers’ needs, but the idea is there.</p>
+
+<p>Reflecting on what I have done over the past few months, I have shown my proficiency in Physics, Computer Science, and Mathematics. The Circuit Diagram I’ve drawn is a perfect demonstration of that. The timing and variable counts all rely on the mathematics to work, and I’ve applied what I have learned in my academic classes to resolve issues.</p>
+
+<p>Besides the academic skillsets, I’ve also demonstrated the core competencies listed in my proposal. My reflections demonstrated how I am applying reflective thinking during my Capstone Project. I do bi-weekly reflections on what I have done, what I have encountered, and what I need to finish before my next reflection. I was once behind on my scheduled timeline, and I knew that I needed to make time to catch up on my progress, or I wouldn’t be able to finish my project in time. I believe this demonstrates my personal awareness and responsibility, which I am aware that I am in charge of making time and completing the project on my own. However, collaboration is a big part of the career that I want to pursue. When I encounter errors, I debug on my own first. Through critical thinking, I try different bug fixes. When I hit a dead-end, I reach out to my mentors. They are experts that have been in the workforce working on related stuff for years. Although I have been playing around with computers and chips for a few years, my level of understanding is still far away from theirs. Therefore, communication is the key. Through effective communication, I communicated my thoughts with my mentors and came up with solutions without fighting. While I am continuously figuring out these issues, I also had to think of final products for my final Capstone Project demonstration. I demonstrated my creative thinking by coming up with ideas like the Traffic Lights project and the Security Alarm project. In addition, the Security Alarm project is also a demonstration of my social responsibility and positive personal &amp; cultural identity. We all need to protect ourselves and our properties from unauthorized persons, and the Security Alarm project is to fulfill that need through low-cost materials.</p>
+
+<p>Looking back at the whole project, I am most proud of myself. I can step out of my comfort zone and move from things I am used to working with to something I’ve never worked with before. There were many difficulties I have faced during the project, and I’ve resolved them step by step. For instance, the LCD Display Error issue was one of the worst problems I’ve encountered. Every time I thought the error was gone, it came back and broke my program. In the end, I found the root cause and addressed it. I almost held a party for just fixing that issue.</p>
+
+<p>If I could redo this project, I’d say that I would like to have more budget and afford some more fancy sensors. With limited sensors and devices, I didn’t have a lot of combinations to work with, and my final products couldn’t utilize the Raspberry Pi Pico to its fullest potential. I recommend those that want to work on microcontrollers as Capstone Projects in the future to start looking for mentors earlier. I never had the chance to get to know any computer teachers here as I entered Westview as an international student in Q2 2020-2021. I am an introvert, so I prefer to have a mentor that I know. In the end, I asked my sister and my dad, which isn’t always the best choice. Furthermore, searching for final product ideas on the internet is the least helpful resource ever. Every project I saw was either too costly, and I didn’t have the materials, or it was just a little test that wasn’t even a project.</p>
+
+<p>Overall, this project was an amazing experience. It allowed me to explore my interest and make them a reality. I know I am on the right path and the right track to the future career I want, and I hope my passion is and will always stay the same, if not more.</p>]]></content><author><name></name></author><category term="Reflections" /><summary type="html"><![CDATA[This reflection marks the conclusion of this project.]]></summary></entry><entry><title type="html">Project Timeline</title><link href="https://hscapstone.shihling.com/about/project-timeline.html" rel="alternate" type="text/html" title="Project Timeline" /><published>2022-01-03T00:00:00+00:00</published><updated>2026-02-16T00:00:00+00:00</updated><id>https://hscapstone.shihling.com/about/project-timeline</id><content type="html" xml:base="https://hscapstone.shihling.com/about/project-timeline.html"><![CDATA[<ol>
+  <li>
+    <p>Project Title</p>
+
+    <p>Exploring the Potentials of a Microcontroller</p>
+  </li>
+  <li>
+    <p>Capstone Format</p>
+
+    <ul>
+      <li>Passion Project</li>
+      <li>Personal Inquiry Project</li>
+    </ul>
+  </li>
+  <li>
+    <p>Objectives</p>
+
+    <ul>
+      <li>Learn to connect devices and Raspberry Pi Pico (Physical Computing)</li>
+      <li>Learn Programming with MicroPython (Software Programming)</li>
+      <li>Demonstrate learning in the field of technology &amp; engineering</li>
+    </ul>
+  </li>
+  <li>
+    <p>Potential Final Product</p>
+
+    <ul>
+      <li>Individual device experiment demonstration</li>
+      <li>Demonstration of what a single microcontroller can do</li>
+    </ul>
+  </li>
+  <li>
+    <p>Resources Required</p>
+
+    <ul>
+      <li>Computer with Thonny IDE (with MicroPython) installed
+        <ul>
+          <li>Physical Computing Kit</li>
+          <li>Raspberry Pi Pico</li>
+          <li>LED lights</li>
+          <li>Ultrasonic sensor</li>
+          <li>Jumper wires (M2M, M2F, F2F)</li>
+          <li>Buttons</li>
+          <li>LCD Display</li>
+          <li>Buzzer</li>
+          <li>LED strip</li>
+          <li>Potentiometer</li>
+          <li>PIR sensor</li>
+          <li>Resistors</li>
+          <li>Breadboard</li>
+        </ul>
+      </li>
+      <li>Book (Get started with MicroPython on Raspberry Pi Pico)</li>
+    </ul>
+  </li>
+  <li>
+    <p>Skills Required</p>
+
+    <ul>
+      <li>Knowledge to connecting devices to a breadboard</li>
+      <li>Programming logic &amp; Any programming experience</li>
+    </ul>
+  </li>
+  <li>
+    <p>Mentor &amp; CLC Teacher</p>
+
+    <ul>
+      <li>Ms. Orologio</li>
+      <li>Sister - Sammy Shen</li>
+    </ul>
+  </li>
+  <li>
+    <p>My Action Plan &amp; Timeline</p>
+
+    <p><img src="/about/assets/timeline.jpg" alt="My Action Plan &amp; Timeline" /></p>
+  </li>
+</ol>]]></content><author><name></name></author><category term="About" /><summary type="html"><![CDATA[See the planned dates and times for the project.]]></summary></entry><entry><title type="html">Project Purpose</title><link href="https://hscapstone.shihling.com/about/project-purpose.html" rel="alternate" type="text/html" title="Project Purpose" /><published>2022-01-02T00:00:00+00:00</published><updated>2026-02-16T00:00:00+00:00</updated><id>https://hscapstone.shihling.com/about/project-purpose</id><content type="html" xml:base="https://hscapstone.shihling.com/about/project-purpose.html"><![CDATA[<p>The purpose of this project is to explore the possibilities of a microcontroller and extend my knowledge in software and hardware computing. Over the past few years, I have been mainly playing with desktop computers and laptops. I have tried all kinds of different projects, including installing various operating systems and making the drivers work. However, this has always been about trying to find the correct files and drivers for the computer to make all devices work. There were no components of wiring the computers or programming the chips and devices because these were all provided by the device manufacturer and cannot be modified. During this project, I will be learning about how physical computing works, and how to program hardware devices. By the end of this project, I will have learned how to use each of the devices and be able to create a fully functional final product.</p>]]></content><author><name></name></author><category term="About" /><summary type="html"><![CDATA[Learn about why I did this project.]]></summary></entry><entry><title type="html">Design Iterations</title><link href="https://hscapstone.shihling.com/hardware_design/design-iterations.html" rel="alternate" type="text/html" title="Design Iterations" /><published>2022-01-02T00:00:00+00:00</published><updated>2026-02-16T00:00:00+00:00</updated><id>https://hscapstone.shihling.com/hardware_design/design-iterations</id><content type="html" xml:base="https://hscapstone.shihling.com/hardware_design/design-iterations.html"><![CDATA[<h3 id="final-revision-october-3rd-2021">Final Revision (October 3rd, 2021)</h3>
+
+<ul>
+  <li>Resolved LCD Issue (Requires individual port)</li>
+  <li>Moved Ultrasonic sensor wiring</li>
+  <li>Removed front V_BUS and GND wires</li>
+</ul>
+
+<p><img src="/hardware_design/assets/final.jpg" alt="Final Revision" /></p>
+
+<hr />
+
+<h3 id="second-revision-september-30th-2021">Second Revision (September 30th, 2021)</h3>
+
+<ul>
+  <li>Confirmed devices that will be used</li>
+  <li>Swaped out old jumper wires</li>
+  <li>Devices locked into position by iron wire on cardboard</li>
+</ul>
+
+<p><img src="/hardware_design/assets/second.jpg" alt="Second Revision" /></p>
+
+<hr />
+
+<h3 id="first-revision-september-19th-2021">First Revision (September 19th, 2021)</h3>
+
+<ul>
+  <li>More devices added</li>
+  <li>Messy wiring</li>
+  <li>Old experimental jumper wires in use</li>
+</ul>
+
+<p><img src="/hardware_design/assets/first.jpg" alt="First Revision" /></p>
+
+<hr />
+
+<h3 id="initial-build-september-18th-2021">Initial Build (September 18th, 2021)</h3>
+
+<ul>
+  <li>Only partial devices connected</li>
+  <li>Messy wiring</li>
+  <li>Old experimental jumper wires in use</li>
+</ul>
+
+<p><img src="/hardware_design/assets/initial.jpg" alt="Initial Build" /></p>]]></content><author><name></name></author><category term="Hardware Design" /><summary type="html"><![CDATA[See how the design of the project changed from time to time.]]></summary></entry><entry><title type="html">Core Competencies</title><link href="https://hscapstone.shihling.com/about/core-competencies.html" rel="alternate" type="text/html" title="Core Competencies" /><published>2022-01-01T00:00:00+00:00</published><updated>2026-02-16T00:00:00+00:00</updated><id>https://hscapstone.shihling.com/about/core-competencies</id><content type="html" xml:base="https://hscapstone.shihling.com/about/core-competencies.html"><![CDATA[<ol>
+  <li>
+    <p>Communicating/Collaborating</p>
+
+    <p>During group projects, communication and collaboration is the key to success. In Social Studies 10, I had a partner during the WWI and WWII Simulation Project. Through exchanging ideas and planning out strategies to attack others between the two of us, we can effectively work out solutions to the current situation. During each class, we also have time to work with our allies to protect our territories from our enemies. This is a great demonstration of communication and collaboration, and without these two skills, the simulation project wouldn’t be so successful.</p>
+  </li>
+  <li>
+    <p>Creative Thinking/Critical and Reflective Thinking</p>
+
+    <p>In English 10, we had the opportunity to learn about Indigenous reserves and the equality issues that still exist now through literature. While we were reading the book, we constantly did reflections and summaries and critically thought about why and how things happened. In the final project, I did a concept map of the novel. Although I’m not talented in arts, I was able to arrange, label, and categorize each event and character in a creative way. I believe this is a great example of both critical and reflective thinking and creative thinking.</p>
+  </li>
+  <li>
+    <p>Personal Awareness and Responsibility</p>
+
+    <p>Over the past 11 months in Canada, I completed more than half of my graduation requirement credits. It was extremely challenging, and at the same time it required high self regulation and motivation. In order to graduate within the timeframe planned, I set goals for myself. For example, I set a goal to complete my Physics 11 online course within 2 months. Each week, I would work on one of the 8 units and take the unit test by the end of next week. This is a demonstration of my personal awareness and responsibility.</p>
+  </li>
+  <li>
+    <p>Positive Personal and Cultural Identity</p>
+
+    <p>As an international student from Taiwan, my cultural background, identity, perspectives, etc. are all different from the other students in the school. However, I do not feel inferior or ashamed of my cultural identity. Instead, I am more than happy to share my experiences and background to my teachers and classmates. This demonstrates my positive personal and cultural identity.</p>
+  </li>
+  <li>
+    <p>Social Awareness and Responsibility</p>
+
+    <p>During my high school career, I have been actively involved in Model United Nations conferences. Each conference, we have a different issue that we want to address and write a resolution for that issue. We often discuss the humanitarian issues happening around the world as well as the wars that have been going on. Besides writing resolutions, debating, and learning about the issues, I also participate in Amnesty International’s Writing Marathon event each year. We write letters and postcards to country leaders around the world, calling on them to respect human rights and resolve the humanitarian crisis occurring in their country. This demonstrates my social awareness and responsibility.</p>
+  </li>
+  <li>
+    <p>What are you excited about?</p>
+
+    <p>I am excited about being able to work on something I love, something I am passionate about, and something I want to do as a career. I am looking forward to exploring more about computer engineering and computer science through the capstone project, and I hope I can create a project that I’ve been wanting for years.</p>
+  </li>
+  <li>
+    <p>What are you nervous about?</p>
+
+    <p>I am nervous about starting to work on electrical kits and programming the items on the breadboard because it is very easy to break them, and this is also the first time I am working on these things. I hope I don’t break anything or fry the board.</p>
+  </li>
+  <li>
+    <p>Questions you have</p>
+
+    <p>I have a lot of questions toward the project I am looking forward to working on, however, things may still change, and it is not for sure I am going to be working on electrical kits. Besides that, I don’t have questions for now. I will ask the teachers when I do.</p>
+  </li>
+</ol>]]></content><author><name></name></author><category term="About" /><summary type="html"><![CDATA[A self refelction on the BC Curriculum Core Compentecies.]]></summary></entry><entry><title type="html">Circuit Diagram and Device Map</title><link href="https://hscapstone.shihling.com/hardware_design/circuit-diagram-and-device-map.html" rel="alternate" type="text/html" title="Circuit Diagram and Device Map" /><published>2022-01-01T00:00:00+00:00</published><updated>2026-02-16T00:00:00+00:00</updated><id>https://hscapstone.shihling.com/hardware_design/circuit-diagram-and-device-map</id><content type="html" xml:base="https://hscapstone.shihling.com/hardware_design/circuit-diagram-and-device-map.html"><![CDATA[<h3 id="circuit-diagram">Circuit Diagram</h3>
+
+<p><img src="/hardware_design/assets/circuit.png" alt="Circuit Diagram" /></p>
+
+<center><a href="https://github.com/shihlings/capstone-explore-microcontroller/blob/main/Diagrams/Circuit%20Diagram.cddx">Download .CDDX File From GitHub</a> or <a href="https://github.com/shihlings/capstone-explore-microcontroller/blob/main/Diagrams/Circuit%20Diagram.jpg">Download .JPG File From GitHub</a> <br /> <strong>NOTE:</strong> .CDDX file was edited using the <a href="https://www.circuit-diagram.org/">Circuit Diagram</a> website.</center>
+
+<hr />
+
+<h3 id="device-map">Device Map</h3>
+
+<p><img src="/hardware_design/assets/device_map.jpg" alt="Device Map" /></p>
+<center><a href="https://github.com/shihlings/capstone-explore-microcontroller/blob/main/Diagrams/Device%20Map.jpg">Download .JPG File From GitHub</a>
+</center>]]></content><author><name></name></author><category term="Hardware Design" /><summary type="html"><![CDATA[See how the devices are connected to the microcontroller (Raspberry Pi Pico).]]></summary></entry><entry><title type="html">Bi-weekly Reflection 6</title><link href="https://hscapstone.shihling.com/reflection/bi-weekly-reflection-6.html" rel="alternate" type="text/html" title="Bi-weekly Reflection 6" /><published>2021-12-24T00:00:00+00:00</published><updated>2026-02-16T00:00:00+00:00</updated><id>https://hscapstone.shihling.com/reflection/bi-weekly-reflection-6</id><content type="html" xml:base="https://hscapstone.shihling.com/reflection/bi-weekly-reflection-6.html"><![CDATA[<p>This is the final reflection before the end of the year. Over the past weeks, I’ve finished up drawing the circuit diagram. It was a painful process, to be honest. I had never drawn any circuit diagrams before, so I had to find how to do it digitally. I also had to ensure it had all the templates I needed for my project as I couldn’t import any modules to the circuit diagram creator. In the end, I was able to use custom circuitry and finish the circuit diagram as expected. With the circuit diagram completed, I can now reference the circuit diagram when I’m coding. I no longer need to go back to the device and count the breadboard wires, which is a great addition and makes my life much easier.</p>
+
+<p>With the hardware stuff finished, I only have software stuff to deal with now. I’m getting close to the end of this project, and I think I can finish the project by the end of Semester 1. I have completed the traffic lights program and have finished debugging and stress testing. The final task on the list for the traffic lights program is to record a video of it running and add it to this portfolio, along with some description. Hopefully, this can be done in the first week of the new year.</p>
+
+<p>I’m also planning on doing another small final product, which is a security alarm. Currently, I have all the concepts in mind; however, I will have to find a way to make it happen. It involves running the program on both the Raspberry Pi 4B and the Raspberry Pi Pico. The Raspberry Pi 4B currently runs Python 3, and the Raspberry Pi Pico runs MicroPython. As they run in different languages, there might be trouble for them to communicate. Hopefully, I will have a solution in the new year.</p>
+
+<p>The project will be put aside for now, and I will be on a winter break. I will pick up where I left off in the new year.</p>
+
+<p>My goal in the new year is to complete the traffic lights program and the security alarm program, which will conclude this Capstone Project. I aim to complete everything, including the final reflection, by January 16th. Then, in the third week of January, I will be preparing my presentation and scheduling the presentation anytime that week.</p>]]></content><author><name></name></author><category term="Reflections" /><summary type="html"><![CDATA[This is the final reflection before the end of the year. Over the past weeks, I’ve finished up drawing the circuit diagram. It was a painful process, to be honest. I had never drawn any circuit diagrams before, so I had to find how to do it digitally. I also had to ensure it had all the templates I needed for my project as I couldn’t import any modules to the circuit diagram creator. In the end, I was able to use custom circuitry and finish the circuit diagram as expected. With the circuit diagram completed, I can now reference the circuit diagram when I’m coding. I no longer need to go back to the device and count the breadboard wires, which is a great addition and makes my life much easier.]]></summary></entry><entry><title type="html">Bi-weekly Reflection 5</title><link href="https://hscapstone.shihling.com/reflection/bi-weekly-reflection-5.html" rel="alternate" type="text/html" title="Bi-weekly Reflection 5" /><published>2021-12-10T00:00:00+00:00</published><updated>2026-02-16T00:00:00+00:00</updated><id>https://hscapstone.shihling.com/reflection/bi-weekly-reflection-5</id><content type="html" xml:base="https://hscapstone.shihling.com/reflection/bi-weekly-reflection-5.html"><![CDATA[<p>There hasn’t been much progress since the last reflection.</p>
+
+<p>For the circuit diagram part, I finally started drawing it. I planned to do it digitally and make it printable into a PCB. However, I couldn’t find a program that had every device including the Raspberry Pi Pico on it. Therefore, I decided to draw it by hand. It wouldn’t be as good as a digital one, but it would provide a better view of how I wired my devices onto the breadboard. For now, I have completed the individual symbols for the circuit diagram. I only need to put them together, and I am done with the circuit diagram portion of the project.</p>
+
+<p>Besides the hardware check program I mentioned in the last reflection, I’ve also made a traffic light simulation using the LED Lights, the LED Strip, and the buttons. It is mostly completed; however, I haven’t finished debugging and stress testing. I hope I can finish it by Christmas and I’ll do another one or two small projects for the final project section.</p>
+
+<p>As the end of the first semester nears, I am starting to wrap up the project. To be honest, this project can go on forever as there are tons of possibilities. Considering that I don’t have a big budget and most stuff would be for development purposes, I wouldn’t be buying more fancy sensors and motors to build a robot.</p>
+
+<p>During the winter break, I still plan on having more progress. My goal is to complete the circuit diagram and all final products. Then, I can have the rest of the CLC classes to finish my Capstone Portfolio and prepare for my presentation. With that said, if I don’t complete them by January, I will still have some classes to finish up as the backup plan.</p>]]></content><author><name></name></author><category term="Reflections" /><summary type="html"><![CDATA[There hasn’t been much progress since the last reflection.]]></summary></entry></feed>
